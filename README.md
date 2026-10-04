@@ -46,7 +46,7 @@ cd student-grade-manager
 Run the program:
 
 ```bash
-python main.py
+python studentmanager.py
 ```
 
 ## Version
